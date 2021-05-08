@@ -8,3 +8,6 @@ Pillow==8.2.0
 python-multipart==0.0.5
 tensorflow-cpu==2.4.1
 uvicorn==0.13.4
+gunicorn==19.9.0
+uvloop
+httptools
