@@ -3,7 +3,7 @@ h5py==2.10.0
 Keras==2.4.3
 Keras-Preprocessing==1.1.2
 numpy==1.19.5
-opencv-python-headless 4.5.2.52
+opencv-python-headless==4.5.2.52
 Pillow==8.2.0
 python-multipart==0.0.5
 tensorflow-cpu==2.4.1
