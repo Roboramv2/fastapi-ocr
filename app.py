@@ -1,7 +1,7 @@
 from fastapi import FastAPI, File, UploadFile
 from keras.models import load_model
 import numpy as np
-from cv2 import cv2
+import cv2
 from io import BytesIO
 from PIL import Image
 
