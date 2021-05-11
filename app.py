@@ -4,6 +4,7 @@ import numpy as np
 import cv2
 from io import BytesIO
 from PIL import Image
+import uvicorn
 
 app = FastAPI()
 model = load_model('digitsocr.h5')
